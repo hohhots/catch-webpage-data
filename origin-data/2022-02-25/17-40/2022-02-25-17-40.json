@@ -1,0 +1,957 @@
+{
+    "/arcpscreen/api/wartimes/screen/plus/getDayCollectAddressNum": [
+        {
+            "areaId": "150172000000",
+            "area": "呼和浩特经济技术开发区",
+            "collectAddressId": "f3c097cf-b4ec-4e92-8bcc-28ae5b555917",
+            "collectAddress": "沙尔沁村采集点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 17227
+        },
+        {
+            "areaId": "150121",
+            "area": "土默特左旗",
+            "collectAddressId": "b86acfc2-ac58-4548-bbec-16a5ef46f665",
+            "collectAddress": "碧水蓝山小区采样点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 7919
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "cb95b0bc-9b88-44b6-8b0e-f07d981a686f",
+            "collectAddress": "颐和家园",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 7233
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "e0e7b9da-5180-4d68-a84e-5c397cdd34f3",
+            "collectAddress": "呼铁佳园C区广场1点位",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 6975
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "a4894139-4a72-412b-bc33-e206efb64d25",
+            "collectAddress": "中环二期南门停车场",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 6712
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "375614af-b4cb-4e1e-809e-f412bc1665e2",
+            "collectAddress": "老缸房社区",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 6199
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "714448fd-c03b-4d10-b662-04db6f6fc5f1",
+            "collectAddress": "世纪大街与青河路交叉口路北华渊春晓三期",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 6060
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "00d5705f-5f30-478d-a986-687d19bb3c5e",
+            "collectAddress": "恒大北区：北门2",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 6025
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "16d192e0-704e-4e90-a952-ba4cd9cfef7e",
+            "collectAddress": "武警总队",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 5725
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "b19edefb-9fdb-4e82-857c-05cf77415008",
+            "collectAddress": "篮球小广场",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 5558
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "8ff17d31-dcbc-47cd-9362-11de8196c5be",
+            "collectAddress": "秋实知行广场",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 5453
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "838c1f18-9259-4805-bcbe-dcde2d49bd9d",
+            "collectAddress": "聚泽园东门一个",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 5087
+        },
+        {
+            "areaId": "150121",
+            "area": "土默特左旗",
+            "collectAddressId": "0026b859-f0e1-4281-a9a3-3f5864f17cb7",
+            "collectAddress": "易购城采样点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 5051
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "5d6e3904-e954-403e-b945-253a5112fe49",
+            "collectAddress": "民富家园与巴音巴什中间路段",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 5024
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "23ffaa95-8e9e-430c-87ee-049b1bdb4687",
+            "collectAddress": "天赐良缘门脸房检测点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 5012
+        },
+        {
+            "areaId": "150103",
+            "area": "回民区",
+            "collectAddressId": "789bef62-72ed-44c6-97af-f2e1f83c29b3",
+            "collectAddress": "大马路体育场采样点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4982
+        },
+        {
+            "areaId": "150124",
+            "area": "清水河县",
+            "collectAddressId": "2c6f46b5-b09e-4d42-93f7-534bc7338106",
+            "collectAddress": "旭阳中燃",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4907
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "eb59740d-6044-4069-90ec-f1e6004e9252",
+            "collectAddress": "水岸小镇ABCD（青城驿站）",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4642
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "8111cb3b-c3c7-4c2a-aca7-25a95858be59",
+            "collectAddress": "军区招待所",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4568
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "1ca54464-bb8e-4cda-992a-136126c5a8ba",
+            "collectAddress": "呼和浩特市赛罕区009县道南阳光美居东门口",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4524
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "7bb5329a-f13d-4fe6-bec5-57e2d8bc3476",
+            "collectAddress": "③电动工具厂宿舍",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4474
+        },
+        {
+            "areaId": "150124",
+            "area": "清水河县",
+            "collectAddressId": "00e47ca2-e452-4d44-85aa-48632a64a51f",
+            "collectAddress": "跃进村委",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4463
+        },
+        {
+            "areaId": "150104",
+            "area": "玉泉区",
+            "collectAddressId": "60115e46-fcb4-42f1-97c0-f925a0a93ddb",
+            "collectAddress": "呼市金川南区阜丰公司院内",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4454
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "c7df9337-5978-4903-be77-901f7b633b44",
+            "collectAddress": "呼和浩特体育场",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4396
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "001d1e2d-3bea-440c-9c38-25437dda482b",
+            "collectAddress": "公主府社区院内",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4394
+        },
+        {
+            "areaId": "150121",
+            "area": "土默特左旗",
+            "collectAddressId": "da8f8dc1-ebea-45f2-90c7-8c0b6f31e1a8",
+            "collectAddress": "公元大道小区采样点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4325
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "2a90b2e2-03ed-48d9-9ac7-94232a63dd1c",
+            "collectAddress": "学府花园路社区门口",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4317
+        },
+        {
+            "areaId": "150121",
+            "area": "土默特左旗",
+            "collectAddressId": "a4767e9d-5593-41cd-8fc6-d6a73c5b893e",
+            "collectAddress": "金华学府小区北门采样点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4274
+        },
+        {
+            "areaId": "150103",
+            "area": "回民区",
+            "collectAddressId": "24b22c67-6d55-4663-abb5-e6177e5f24a6",
+            "collectAddress": "少年宫1检测点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4135
+        },
+        {
+            "areaId": "150121",
+            "area": "土默特左旗",
+            "collectAddressId": "50dd8b7b-a99d-4705-92dc-8f9703c7b71b",
+            "collectAddress": "金润华府小区北侧通道采样点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4103
+        },
+        {
+            "areaId": "150121",
+            "area": "土默特左旗",
+            "collectAddressId": "43e8b7ba-cee4-4a98-a585-8037845d3ad0",
+            "collectAddress": "上院西采样点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4033
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "cb8abdde-0cf4-4995-9454-248935d27286",
+            "collectAddress": "书香门第",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 4032
+        },
+        {
+            "areaId": "150104",
+            "area": "玉泉区",
+            "collectAddressId": "1d653cda-c005-4933-a939-bbf20e1df0b4",
+            "collectAddress": "戒毒所平房区",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3998
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "173eb89b-553f-44c0-b884-4a3bca076175",
+            "collectAddress": "村委会院内",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3981
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "c1c6db95-aa5c-4c8e-a289-7efa619d22ba",
+            "collectAddress": "华茂名居小区",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3967
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "c01adc8f-899a-4e7f-ba67-01c32e8070c6",
+            "collectAddress": " 赛罕区世纪七路祥瑞家园东门",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3942
+        },
+        {
+            "areaId": "150104",
+            "area": "玉泉区",
+            "collectAddressId": "e2823dbf-1839-4ed8-8b69-b5553a6cb59d",
+            "collectAddress": "观澜国际A区足球场",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3928
+        },
+        {
+            "areaId": "150104",
+            "area": "玉泉区",
+            "collectAddressId": "a6fb6457-c949-40fe-8c2a-0b5cc34a646e",
+            "collectAddress": "天颐尚居(一)",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3851
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "7331a2f4-292e-4cd1-96fd-b8df603c3afb",
+            "collectAddress": "塔利公租房物业楼前临时采样点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3831
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "0d2c501a-7598-42b7-9969-113b4738455b",
+            "collectAddress": "幸福小区",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3817
+        },
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectAddressId": "a0dbceee-928d-4098-be1f-3e198e5f72bd",
+            "collectAddress": "香榭花堤小区东门空地",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3787
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "a3574abd-ba53-4125-894f-9a1fc2d9d870",
+            "collectAddress": "红山口村刘哲卫生室",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3766
+        },
+        {
+            "areaId": "150103",
+            "area": "回民区",
+            "collectAddressId": "50399bbd-2343-4ff7-adc5-9e6cbe064725",
+            "collectAddress": "时代华城小区",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3754
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "e7e80df0-201e-44da-93db-128fe6cd26c3",
+            "collectAddress": "军区社区北广场",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3742
+        },
+        {
+            "areaId": "150103",
+            "area": "回民区",
+            "collectAddressId": "00a8d4d2-d8de-4676-8705-2944ca46d236",
+            "collectAddress": "众环小区2",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3697
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "3c71536e-8f1f-4c9f-8d10-ae675f0c3a4c",
+            "collectAddress": "长城小区",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3671
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "132a4cd5-3045-48c9-895e-a52be58a9c53",
+            "collectAddress": "呼铁佳园广场1点位",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3638
+        },
+        {
+            "areaId": "150121",
+            "area": "土默特左旗",
+            "collectAddressId": "2d3eb512-87a0-4d76-b9c1-5838b2aad235",
+            "collectAddress": "东方国际城采样点",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3630
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectAddressId": "56dc59c2-8f39-4694-95be-826a4257a7a2",
+            "collectAddress": "村委会院内",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3621
+        },
+        {
+            "areaId": "150104",
+            "area": "玉泉区",
+            "collectAddressId": "24b06453-b8df-4fcf-a528-aac61b5c1944",
+            "collectAddress": "党群活动中心小广场",
+            "lng": 0,
+            "lat": 0,
+            "collectNum": 3592
+        }
+    ],
+    "/arcpscreen/api/wartimes/screen/plus/getCityRelatedTotalNum": {
+        "cityId": null,
+        "cityName": null,
+        "collectedNum": 2980106,
+        "sendNum": 2953673,
+        "inceptNum": 2896247,
+        "testedNum": 907351
+    },
+    "/arcpscreen/api/wartimes/screen/plus/getDayAreaCollectNum": [
+        {
+            "areaId": "150105",
+            "area": "赛罕区",
+            "collectNum": 762531,
+            "sendNum": 755775,
+            "inceptNum": 744155,
+            "testNum": 111397
+        },
+        {
+            "areaId": "150102",
+            "area": "新城区",
+            "collectNum": 571523,
+            "sendNum": 560723,
+            "inceptNum": 558653,
+            "testNum": 180608
+        },
+        {
+            "areaId": "150104",
+            "area": "玉泉区",
+            "collectNum": 462780,
+            "sendNum": 458756,
+            "inceptNum": 448347,
+            "testNum": 188383
+        },
+        {
+            "areaId": "150121",
+            "area": "土默特左旗",
+            "collectNum": 354124,
+            "sendNum": 352944,
+            "inceptNum": 338845,
+            "testNum": 103965
+        },
+        {
+            "areaId": "150103",
+            "area": "回民区",
+            "collectNum": 349141,
+            "sendNum": 346274,
+            "inceptNum": 340390,
+            "testNum": 155516
+        },
+        {
+            "areaId": "150122",
+            "area": "托克托县",
+            "collectNum": 153692,
+            "sendNum": 153617,
+            "inceptNum": 153223,
+            "testNum": 39128
+        },
+        {
+            "areaId": "150123",
+            "area": "和林格尔县",
+            "collectNum": 145195,
+            "sendNum": 145132,
+            "inceptNum": 141979,
+            "testNum": 67618
+        },
+        {
+            "areaId": "150125",
+            "area": "武川县",
+            "collectNum": 89083,
+            "sendNum": 88996,
+            "inceptNum": 87205,
+            "testNum": 16706
+        },
+        {
+            "areaId": "150124",
+            "area": "清水河县",
+            "collectNum": 74293,
+            "sendNum": 74156,
+            "inceptNum": 66150,
+            "testNum": 26943
+        },
+        {
+            "areaId": "150172000000",
+            "area": "呼和浩特经济技术开发区",
+            "collectNum": 17744,
+            "sendNum": 17300,
+            "inceptNum": 17300,
+            "testNum": 17087
+        },
+        {
+            "areaId": "150101",
+            "area": "市辖区",
+            "collectNum": 0,
+            "sendNum": 0,
+            "inceptNum": 0,
+            "testNum": 0
+        }
+    ],
+    "/arcpscreen/api/wartimes/screen/plus/getCityRelatedDayNum": {
+        "collectedNum": 2980106,
+        "sendNum": 2953673,
+        "inceptNum": 2896247,
+        "testedNum": 907351,
+        "dateTime": "2022-02-25T09:29:59.000+0000"
+    },
+    "/arcpscreen/api/wartimes/screen/plus/getCityEveryDayCollectNum": [
+        {
+            "everyDay": "02/19",
+            "collectedNum": 2672727
+        },
+        {
+            "everyDay": "02/20",
+            "collectedNum": 94546
+        },
+        {
+            "everyDay": "02/21",
+            "collectedNum": 2851629
+        },
+        {
+            "everyDay": "02/22",
+            "collectedNum": 2893560
+        },
+        {
+            "everyDay": "02/23",
+            "collectedNum": 2965431
+        },
+        {
+            "everyDay": "02/24",
+            "collectedNum": 2982458
+        },
+        {
+            "everyDay": "02/25",
+            "collectedNum": 2980106
+        }
+    ],
+    "/arcpscreen/api/wartimes/screen/plus/getCityHourNum": [
+        {
+            "everyHour": "1",
+            "collectedNum": 40,
+            "sendNum": 0,
+            "inceptNum": 0,
+            "testNum": 0
+        },
+        {
+            "everyHour": "2",
+            "collectedNum": 57,
+            "sendNum": 0,
+            "inceptNum": 0,
+            "testNum": 0
+        },
+        {
+            "everyHour": "3",
+            "collectedNum": 78,
+            "sendNum": 88,
+            "inceptNum": 88,
+            "testNum": 0
+        },
+        {
+            "everyHour": "4",
+            "collectedNum": 952,
+            "sendNum": 0,
+            "inceptNum": 0,
+            "testNum": 0
+        },
+        {
+            "everyHour": "5",
+            "collectedNum": 2213,
+            "sendNum": 0,
+            "inceptNum": 0,
+            "testNum": 0
+        },
+        {
+            "everyHour": "6",
+            "collectedNum": 8929,
+            "sendNum": 110,
+            "inceptNum": 0,
+            "testNum": 0
+        },
+        {
+            "everyHour": "7",
+            "collectedNum": 87139,
+            "sendNum": 5508,
+            "inceptNum": 332,
+            "testNum": 0
+        },
+        {
+            "everyHour": "8",
+            "collectedNum": 434465,
+            "sendNum": 60723,
+            "inceptNum": 12721,
+            "testNum": 0
+        },
+        {
+            "everyHour": "9",
+            "collectedNum": 565510,
+            "sendNum": 338876,
+            "inceptNum": 111607,
+            "testNum": 280
+        },
+        {
+            "everyHour": "10",
+            "collectedNum": 571560,
+            "sendNum": 492562,
+            "inceptNum": 342335,
+            "testNum": 0
+        },
+        {
+            "everyHour": "11",
+            "collectedNum": 511743,
+            "sendNum": 536472,
+            "inceptNum": 462884,
+            "testNum": 1244
+        },
+        {
+            "everyHour": "12",
+            "collectedNum": 388218,
+            "sendNum": 450341,
+            "inceptNum": 529008,
+            "testNum": 26573
+        },
+        {
+            "everyHour": "13",
+            "collectedNum": 224799,
+            "sendNum": 259676,
+            "inceptNum": 364699,
+            "testNum": 119203
+        },
+        {
+            "everyHour": "14",
+            "collectedNum": 124878,
+            "sendNum": 289528,
+            "inceptNum": 292787,
+            "testNum": 105217
+        },
+        {
+            "everyHour": "15",
+            "collectedNum": 37249,
+            "sendNum": 311713,
+            "inceptNum": 287813,
+            "testNum": 218065
+        },
+        {
+            "everyHour": "16",
+            "collectedNum": 14523,
+            "sendNum": 137404,
+            "inceptNum": 290688,
+            "testNum": 178490
+        },
+        {
+            "everyHour": "17",
+            "collectedNum": 6355,
+            "sendNum": 59276,
+            "inceptNum": 159752,
+            "testNum": 177238
+        },
+        {
+            "everyHour": "18",
+            "collectedNum": 1394,
+            "sendNum": 11396,
+            "inceptNum": 41533,
+            "testNum": 81041
+        }
+    ],
+    "/arcpscreen/api/wartimes/screen/plus/getCityHourSumNum": [
+        {
+            "everyHour": "1",
+            "collectedNum": 40,
+            "sendNum": 0,
+            "inceptNum": 0,
+            "testNum": 0
+        },
+        {
+            "everyHour": "2",
+            "collectedNum": 97,
+            "sendNum": 0,
+            "inceptNum": 0,
+            "testNum": 0
+        },
+        {
+            "everyHour": "3",
+            "collectedNum": 175,
+            "sendNum": 88,
+            "inceptNum": 88,
+            "testNum": 0
+        },
+        {
+            "everyHour": "4",
+            "collectedNum": 1127,
+            "sendNum": 88,
+            "inceptNum": 88,
+            "testNum": 0
+        },
+        {
+            "everyHour": "5",
+            "collectedNum": 3340,
+            "sendNum": 88,
+            "inceptNum": 88,
+            "testNum": 0
+        },
+        {
+            "everyHour": "6",
+            "collectedNum": 12269,
+            "sendNum": 198,
+            "inceptNum": 88,
+            "testNum": 0
+        },
+        {
+            "everyHour": "7",
+            "collectedNum": 99408,
+            "sendNum": 5706,
+            "inceptNum": 420,
+            "testNum": 0
+        },
+        {
+            "everyHour": "8",
+            "collectedNum": 533873,
+            "sendNum": 66429,
+            "inceptNum": 13141,
+            "testNum": 0
+        },
+        {
+            "everyHour": "9",
+            "collectedNum": 1099383,
+            "sendNum": 405305,
+            "inceptNum": 124748,
+            "testNum": 280
+        },
+        {
+            "everyHour": "10",
+            "collectedNum": 1670943,
+            "sendNum": 897867,
+            "inceptNum": 467083,
+            "testNum": 280
+        },
+        {
+            "everyHour": "11",
+            "collectedNum": 2182686,
+            "sendNum": 1434339,
+            "inceptNum": 929967,
+            "testNum": 1524
+        },
+        {
+            "everyHour": "12",
+            "collectedNum": 2570904,
+            "sendNum": 1884680,
+            "inceptNum": 1458975,
+            "testNum": 28097
+        },
+        {
+            "everyHour": "13",
+            "collectedNum": 2795703,
+            "sendNum": 2144356,
+            "inceptNum": 1823674,
+            "testNum": 147300
+        },
+        {
+            "everyHour": "14",
+            "collectedNum": 2920581,
+            "sendNum": 2433884,
+            "inceptNum": 2116461,
+            "testNum": 252517
+        },
+        {
+            "everyHour": "15",
+            "collectedNum": 2957830,
+            "sendNum": 2745597,
+            "inceptNum": 2404274,
+            "testNum": 470582
+        },
+        {
+            "everyHour": "16",
+            "collectedNum": 2972353,
+            "sendNum": 2883001,
+            "inceptNum": 2694962,
+            "testNum": 649072
+        },
+        {
+            "everyHour": "17",
+            "collectedNum": 2978708,
+            "sendNum": 2942277,
+            "inceptNum": 2854714,
+            "testNum": 826310
+        },
+        {
+            "everyHour": "18",
+            "collectedNum": 2980102,
+            "sendNum": 2953673,
+            "inceptNum": 2896247,
+            "testNum": 907351
+        }
+    ],
+    "/arcpscreen/api/wartimes/screen/plus/getAreaRelatedTotalNum": [
+        {
+            "areaId": "150105",
+            "areaName": "赛罕区",
+            "collectedNum": 762531,
+            "sendNum": 755775,
+            "inceptNum": 744155,
+            "testedNum": 111397,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        },
+        {
+            "areaId": "150102",
+            "areaName": "新城区",
+            "collectedNum": 571523,
+            "sendNum": 560723,
+            "inceptNum": 558653,
+            "testedNum": 180608,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        },
+        {
+            "areaId": "150104",
+            "areaName": "玉泉区",
+            "collectedNum": 462780,
+            "sendNum": 458756,
+            "inceptNum": 448347,
+            "testedNum": 188383,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        },
+        {
+            "areaId": "150121",
+            "areaName": "土默特左旗",
+            "collectedNum": 354124,
+            "sendNum": 352944,
+            "inceptNum": 338845,
+            "testedNum": 103965,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        },
+        {
+            "areaId": "150103",
+            "areaName": "回民区",
+            "collectedNum": 349141,
+            "sendNum": 346274,
+            "inceptNum": 340390,
+            "testedNum": 155516,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        },
+        {
+            "areaId": "150122",
+            "areaName": "托克托县",
+            "collectedNum": 153692,
+            "sendNum": 153617,
+            "inceptNum": 153223,
+            "testedNum": 39128,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        },
+        {
+            "areaId": "150123",
+            "areaName": "和林格尔县",
+            "collectedNum": 145195,
+            "sendNum": 145132,
+            "inceptNum": 141979,
+            "testedNum": 67618,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        },
+        {
+            "areaId": "150125",
+            "areaName": "武川县",
+            "collectedNum": 89083,
+            "sendNum": 88996,
+            "inceptNum": 87205,
+            "testedNum": 16706,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        },
+        {
+            "areaId": "150124",
+            "areaName": "清水河县",
+            "collectedNum": 74293,
+            "sendNum": 74156,
+            "inceptNum": 66150,
+            "testedNum": 26943,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        },
+        {
+            "areaId": "150172000000",
+            "areaName": "呼和浩特经济技术开发区",
+            "collectedNum": 17744,
+            "sendNum": 17300,
+            "inceptNum": 17300,
+            "testedNum": 17087,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        },
+        {
+            "areaId": "150101",
+            "areaName": "市辖区",
+            "collectedNum": 0,
+            "sendNum": 0,
+            "inceptNum": 0,
+            "testedNum": 0,
+            "estimatedCollectedNum": 0,
+            "collectedPercentage": null
+        }
+    ]
+}

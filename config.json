@@ -1,0 +1,26 @@
+{
+    "dataPath": [
+        {"dayCollectAddressNum": "/arcpscreen/api/wartimes/screen/plus/getDayCollectAddressNum",     "lan": "当日采集点已采样人数"},
+        {"dayAreaCollectNum": "/arcpscreen/api/wartimes/screen/plus/getDayAreaCollectNum",           "lan": "各县市区当日已采样人数"},
+        {"cityRelatedTotalNum": "/arcpscreen/api/wartimes/screen/plus/getCityRelatedTotalNum",       "lan": "全市今日总数"},
+        {"cityRelatedDayNum": "/arcpscreen/api/wartimes/screen/plus/getCityRelatedDayNum",           "lan": "全市今日当前数"},
+        {"cityEveryDayCollectNum": "/arcpscreen/api/wartimes/screen/plus/getCityEveryDayCollectNum", "lan": "全市每日总数"},
+        {"cityHourNum": "/arcpscreen/api/wartimes/screen/plus/getCityHourNum",                       "lan": "今日每小时内数"},
+        {"cityHourSumNum": "/arcpscreen/api/wartimes/screen/plus/getCityHourSumNum",                 "lan": "今日每小时后总数"},
+        {"AreaRelatedTotalNum": "/arcpscreen/api/wartimes/screen/plus/getAreaRelatedTotalNum",       "lan": "各县市区今日累计数"}
+    ],
+    "saveDir": "origin-data",
+    "baseUrl": "http://111.235.156.247:8096",
+    "loginUrl": "/screen/#/passport/login",
+    "reloadPeriod": 60000,
+    "waitForRenderComplete": 1500,
+
+    "username": "xxx",
+    "password": "xxx",
+
+    "collectNum": "采集",
+    "sendNum": "送检",
+    "inceptNum": "接受",
+    "testNum": "检测"
+    
+}
